@@ -7,7 +7,6 @@
 ### Objective
 To analyze Amazon sales data to understand customer purchasing behavior, sales performance across categories and cities, payment method effectiveness, and factors influencing revenue, and to generate actionable business insights.
 
-This project simulates a **real-world e-commerce analytics task**, similar to what a **Data Analyst or Data Scientist** would perform in a retail or marketplace company.
 
 ---
 
@@ -249,4 +248,3 @@ These features help in:
 ## Conclusion
 
 This project demonstrates an **end-to-end data analysis workflow**, from raw data to business-ready insights.  
-It reflects **real-world analytical thinking**, not just plotting graphs.
